@@ -1,0 +1,1 @@
+This project is designed as a hands-on practice environment for Node.js development. It includes basic functionality and some example modules to help me get started with building Node.js applications.
